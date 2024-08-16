@@ -1,6 +1,6 @@
 # Stellar Smart Contract Example
 
-Find the YouTube video tutorial [here](https://www.youtube.com/).
+Find the YouTube video tutorial [here](https://youtu.be/xLXAGWVP3f8).
 
 This repository contains a basic example of a Stellar smart contract written in Rust. It includes all the necessary
 instructions to build, deploy, and interact with the contract on the Stellar testnet.
