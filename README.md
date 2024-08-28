@@ -25,7 +25,7 @@ Before you begin, ensure you have the following tools installed:
 
 - **Rust**: The Rust programming language. You can install it using [rustup](https://rustup.rs/).
 - **Soroban CLI**: The Stellar CLI tool for working with smart
-  contracts. [Installation instructions](https://developers.stellar.org/docs/tools/stellar-cli).
+  contracts. [Installation instructions](https://developers.stellar.org/docs/build/guides/cli).
 - **Cargo**: Rust's package manager, installed automatically with Rust.
 
 ## Installation
